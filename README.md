@@ -1,4 +1,3 @@
-#Chess-Image-classification-using-ANN-and-SVM
 This repository explains the steps for  chess piece image classification using `ANN`,`SVM`.
 `Chess Image clasification using ANN .ipynb` includes the code for classification using Artificial Neural Network and it also includes the `ROC`,`Loss Curve` and `Confusion Matrix` metrics to evaluate the model.
  `Chess Image clasification using SVM .ipynb` includes the code for classification using `Support Vector Machine` and it also includes the `Accuracy`,`ROC`,`Learning Curve` and `Confusion Matrix` metrics to evaluate the model.
